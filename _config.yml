@@ -13,7 +13,7 @@ description: A front-end developer living in Shanghai China. This is my personal
 safe: true
 auto: true
 pygments: true
-markdown: redcarpet
+markdown: kramdown
 timezone: Asia/Shanghai
 
 # ---------------------- #
