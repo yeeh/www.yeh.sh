@@ -5,7 +5,7 @@ name: Perry Yeh
 baseurl:
 url: http://www.yeh.sh
 keywords: Perry Yeh
-description: A software engineer in Shanghai, China.
+description: A software engineer.
 
 # ---------------------- #
 # jekyll                 #
@@ -14,7 +14,7 @@ safe: true
 auto: true
 rouge: true
 markdown: kramdown
-timezone: Asia/Shanghai
+timezone: America/Los_Angeles
 
 # ---------------------- #
 # deployment             #
