@@ -23,7 +23,3 @@ deploy:
 repository:
 branch:
 
-# ---------------------- #
-# google analytics       #
-# ---------------------- #
-google_analytics: UA-11027907-1
